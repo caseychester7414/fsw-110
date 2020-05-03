@@ -9,3 +9,4 @@ for (i = 0; i < Object.values(names).length; i++){
     heading1.style.fontWeight= "lighter"
     heading1.style.fontFamily= "sansSerif"
 }
+
