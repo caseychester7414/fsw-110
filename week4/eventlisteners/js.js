@@ -13,7 +13,7 @@ hello.addEventListener("mousedown", ()=> {
         hello.style.backgroundColor =  "yellow"})
 
         hello.addEventListener("dblclick", ()=> {
-            hello.style.backgroundColor =  "green"})
+            hello.sty le.backgroundColor =  "green"})
             
             window.addEventListener("scroll", ()=> {
                 hello.style.backgroundColor =  "orange"})
